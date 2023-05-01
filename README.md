@@ -1,1 +1,1 @@
-# wiki
+# Just the wiki :)
